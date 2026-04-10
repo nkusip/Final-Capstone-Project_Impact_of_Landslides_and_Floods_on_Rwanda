@@ -2,6 +2,12 @@ TOPIC: EVALUATING THE IMPACT OF NATURAL DISASTERS ON RWANDA: THE CASE OF LANDSLI
 
 Author: Placide NKUSI | Email: nkusip@gmail.com | Date: April 2026 
 
+
+# SUMMARY
+
+This study evaluated how floods and landslides affected Rwanda (2021–2025) using statistical and spatial analysis of the Ministry in Charge of Emergency Management data. Results showed fluctuating trends, peaking in 2023 with deaths, injuries, and damage. Floods caused more deaths and crop damage, while landslides damaged infrastructure. Western region of Rwanda emerges as hotspots for floods and landslides  requiring integrated, flexible disaster management strategies.
+
+
 1. Introduction and Background
    
 Natural disasters represent a growing global challenge, particularly in developing countries where environmental vulnerability is compounded by socio-economic constraints. Among the most frequent and destructive hazards are floods and landslides, which result in significant loss of life, destruction of infrastructure, and disruption of livelihoods. Recent studies have shown that the increasing occurrence of these disasters is closely associated with climate change, environmental degradation, deforestation, and rapid population growth (IPCC, 2022; UNDRR, 2022; World Bank, 2021).
