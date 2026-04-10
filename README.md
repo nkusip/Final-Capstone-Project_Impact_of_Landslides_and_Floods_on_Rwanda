@@ -5,7 +5,7 @@ Author: Placide NKUSI | Email: nkusip@gmail.com | Date: April 2026
 
 # SUMMARY
 
-This study evaluated how floods and landslides affected Rwanda (2021–2025) using statistical and spatial analysis of the Ministry in Charge of Emergency Management data. Results showed fluctuating trends, peaking in 2023 with deaths, injuries, and damage. Floods caused more deaths and crop damage, while landslides damaged infrastructure. Western region of Rwanda emerges as hotspots for floods and landslides  requiring integrated, flexible disaster management strategies.
+My project evaluated how floods and landslides affected Rwanda (2021–2025) using statistical and spatial analysis of the Ministry in Charge of Emergency Management data. Results showed fluctuating trends, peaking in 2023 with deaths, injuries, and damage. Floods caused more deaths and crop damage, while landslides damaged infrastructure. Western region of Rwanda emerges as hotspots for floods and landslides  requiring integrated, flexible disaster management strategies.
 
 
 1. Introduction and Background
